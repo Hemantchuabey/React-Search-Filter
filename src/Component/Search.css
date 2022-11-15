@@ -17,3 +17,7 @@ li{
     opacity: 0.8;
     font-weight: 300;
 }
+Table{
+    justify-content: center;
+    text-align:left;
+}
