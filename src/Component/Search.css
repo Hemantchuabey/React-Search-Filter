@@ -1,0 +1,19 @@
+.search{
+    margin-top: 40px;
+    height: 0.5rem;
+    width: 15vw;
+    padding: 1.3rem;
+    font-size: 1rem;
+    border: 1ox solid rgb(224, 224, 224) ;
+}
+
+ul{
+    list-style: none;
+    margin-right: 4rem;
+    text-align: center;
+}
+li{
+    font-size: 1.2rem;
+    opacity: 0.8;
+    font-weight: 300;
+}
